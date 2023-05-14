@@ -1,0 +1,32 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color: #23272A;
+    user-select: none;
+}
+h1{
+    font-size: 100px;
+    color:orange
+}
+h2{
+    color:rgb(247, 0, 255)
+}
+h3{
+    color: rgb(0, 255, 136);
+}
+p{
+    color: gray;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    float:left;margin: 10px
+}
+button{
+    width: 700px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    font-family: "Press Start 2P";
+    font-size: 20px;
+}
